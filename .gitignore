@@ -2,6 +2,7 @@
 __not/
 data/
 *.zip
+out/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

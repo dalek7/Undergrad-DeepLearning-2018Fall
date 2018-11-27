@@ -1,6 +1,8 @@
 
 __not/
 data/
+data*/
+
 *.zip
 out/
 

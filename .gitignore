@@ -6,7 +6,7 @@ data*/
 out*/
 *.zip
 out/
-pretrained*/
+pretrained-model/
 *.mat
 
 # Byte-compiled / optimized / DLL files

@@ -3,11 +3,17 @@ __not/
 data/
 data*/
 *.npy
+<<<<<<< HEAD
 out*/
 *.zip
 out/
 pretrained-model/
 *.mat
+=======
+
+*.zip
+out/
+>>>>>>> af470910ff74b589777df504f89c480d83ceb5f1
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

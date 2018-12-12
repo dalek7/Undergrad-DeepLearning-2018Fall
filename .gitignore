@@ -3,7 +3,7 @@ __not/
 data/
 data*/
 *.npy
-
+out*/
 *.zip
 out/
 
